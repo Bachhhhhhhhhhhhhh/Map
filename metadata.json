@@ -1,0 +1,9 @@
+{
+  "name": "Hanoi Wanderlust - Pinterest Style Explorer",
+  "description": "A visually stunning Pinterest-like app to discover the best places to eat and play in Hanoi, powered by Gemini AI with live voice interaction, image editing, and video generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
